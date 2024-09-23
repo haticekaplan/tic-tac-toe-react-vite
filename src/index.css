@@ -33,3 +33,10 @@ body {
   font-size: 78px;
   border: 3px solid gray;
 }
+.status{
+  font-size: 84px;
+  width:400px;
+  margin: 20px;
+  color: black;
+  text-align: center;
+}
