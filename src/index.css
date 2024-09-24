@@ -23,8 +23,8 @@ body {
   background-color: white;
 }
 .row-square{
-  display: flex;
-  
+ display: flex;
+ flex-direction: row;
 }
 .square{
   width:150px;
@@ -39,4 +39,15 @@ body {
   margin: 20px;
   color: black;
   text-align: center;
+}
+.game{
+display: flex;
+flex-direction: row;
+
+
+}
+.game-info{
+  margin-left: 100px;
+  width: 300px;
+  font-size: 38px;
 }
